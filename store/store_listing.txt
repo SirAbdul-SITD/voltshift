@@ -1,0 +1,41 @@
+═══════════════════════════════════════════
+VOLTSHIFT — PLAY STORE LISTING
+com.murgames.voltshift
+═══════════════════════════════════════════
+
+APP TITLE (max 50 chars):
+VoltShift: Power Grid Puzzle
+
+SHORT DESCRIPTION (max 80 chars):
+Shift rows & columns to route power across the grid. A retro logic puzzle!
+
+FULL DESCRIPTION:
+🟢 SHIFT. ALIGN. POWER UP. 🟢
+
+VoltShift drops you in front of a glowing retro terminal. The power socket is on the left. The lamp is on the right. Between them: a grid of conduit tiles that only YOU can move — by shifting entire rows and columns.
+
+⚡ HOW TO PLAY
+• Swipe a row left or right — every tile in it slides over
+• Swipe a column up or down — same deal
+• Tiles wrap around: push one off the edge, it reappears on the other side
+• Align the conduits so power flows from socket to lamp
+
+✨ FEATURES
+• 150 levels: Easy 4×4, Medium 5×5, Hard 6×6
+• One-of-a-kind wrap-around shifting mechanic
+• Glorious green phosphor CRT terminal aesthetic with scanlines
+• Live power tracing — watch the current surge as you shift
+• Par system: solve at or under par for 3 stars
+• Deep, hypnotic ambient soundtrack
+• Haptic feedback
+• Fully offline, ad-free, purchase-free, zero data collection
+
+🧠 SIMPLE RULES, DEVIOUS DEPTH
+Every swipe moves a whole line — fix one tile and you may break three. Think like a machine: the shortest solutions are beautiful, and the terminal is always watching your par count.
+
+Boot up VoltShift and bring the grid online. 🟢
+
+CATEGORY: Games > Puzzle
+CONTENT RATING: Everyone
+PRICE: Free
+TAGS: shift, slide, grid, puzzle, logic, retro, terminal, power, circuit, brain
